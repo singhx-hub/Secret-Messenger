@@ -4,7 +4,8 @@ Secret Messenger is a Python GUI application that allows you to hide secret text
 The application provides a user-friendly interface to select an image file, hide text within it, and save the modified image. 
 It also allows you to reveal and display the hidden text from a previously modified image.
 
-![logo1](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/b152b21f-d690-4f94-b8f5-af639c2872d8)
+![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/e86154ce-b55d-4974-8afe-955a87257896)
+
 
 ## Features
 
