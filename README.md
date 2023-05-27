@@ -51,24 +51,28 @@ Usage
 
     Click the "Open Image" button to select an image file.
     
-    ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/ba8b0991-9402-4fab-86ca-a87e7882978b)
 
     Enter the text you want to hide in the "Enter Text to Hide" field.
 
     Click the "Hide Data" button to hide the text within the image.
-    
-    ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/ff8711e4-ed99-435d-912f-ea63d48a0bc8)
 
     Click the "Save Image" button to save the modified image with the hidden text.
-    
-    ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/f0da1a4e-2261-4b17-84c8-c077a5d1ee48)
 
     To reveal and display the hidden text from a modified image:
         Click the "Open Image" button to select the modified image.
         Click the "Show Data" button to reveal and display the hidden text.
-        
-        ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/9846c849-85e0-46fd-a39e-0b3901db15fe)
 
+Screenshots
+
+ ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/ba8b0991-9402-4fab-86ca-a87e7882978b)
+ 
+ ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/ff8711e4-ed99-435d-912f-ea63d48a0bc8)
+  
+ ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/f0da1a4e-2261-4b17-84c8-c077a5d1ee48)
+  
+ ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/9846c849-85e0-46fd-a39e-0b3901db15fe)
+   
+   
 License
 
 This project is licensed under the MIT License.
