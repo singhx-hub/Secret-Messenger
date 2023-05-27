@@ -5,7 +5,7 @@ The application provides a user-friendly interface to select an image file, hide
 It also allows you to reveal and display the hidden text from a previously modified image.
 
 ![image](https://github.com/singhx-hub/Secret-Messenger/assets/126919241/e86154ce-b55d-4974-8afe-955a87257896)
-
+Special Thanks to Parvat Computer Technology.
 
 ## Features
 
