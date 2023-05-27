@@ -39,7 +39,7 @@ Install the required dependencies:
 
 bash
 
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 
 Usage
 
@@ -47,7 +47,7 @@ Usage
 
     bash
 
-    python secret_messenger.py
+    python3 secret_messenger.py
 
     Click the "Open Image" button to select an image file.
     
