@@ -67,7 +67,7 @@ root.iconphoto(True, image_icon)
 # Logo
 logo = PhotoImage(file="logo.png")
 Label(root, image=logo, bg="black").place(x=10, y=15)
-Label(root, text="Secret Blend", bg="black", fg="white", font="cooper 25 bold").place(x=100, y=20)
+Label(root, text="Secret Messenger", bg="black", fg="white", font="cooper 25 bold").place(x=100, y=20)
 
 # First_Frame
 f = Frame(root, bd=3, bg="black", width=490, height=350, relief=SUNKEN)
