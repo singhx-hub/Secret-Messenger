@@ -29,25 +29,15 @@ Special Thanks to Parvat Computer Technology.
    ```bash
    git clone https://github.com/singhx-hub/Secret-Messenger.git
 
-    Navigate to the project directory:
+    Navigate to the project directory: cd secret-messenger
 
     bash
 
-cd secret-messenger
+    Install the required dependencies: pip3 install -r requirements.txt
 
-Install the required dependencies:
+Usage:
 
-bash
-
-    pip3 install -r requirements.txt
-
-Usage
-
-    Run the application:
-
-    bash
-
-    python3 secret_messenger.py
+    Run the application: python3 secret_messenger.py
 
     Click the "Open Image" button to select an image file.
     
